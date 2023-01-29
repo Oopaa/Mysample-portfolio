@@ -1,0 +1,31 @@
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+.w3-third img{margin-bottom: -6px; opacity: 0.8; cursor: pointer}
+.w3-third img:hover{opacity: 1}
+
+.fa{
+    padding: 20px;
+    font-size: 50px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+.fa-twitter{
+    background: #55ACEE;
+    color: white;
+}
+.fa:hover {
+    opacity: 0.9;
+}
+.fa-github{
+    background: #000;
+    color: white;
+}
+.fa-linkedin{
+    background: #007bb5;
+    color: white;
+}
+h4{
+    color: #000;
+    text-align: center;
+}
